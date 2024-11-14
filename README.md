@@ -108,11 +108,11 @@ Here is a screenshot of the terminal output after running the tests:
 
 for src/App.test.jsx
 
-![Alt Text](URL)
+![console screen grab of testing the App component](<https://github.com/fantastizeey1/week9/blob/main/public/Screenshot%20(318).png?raw=true>)
 
 src/Header.test.jsx
 
-![Alt Text](URL)
+![console screen grab of testing the Header component](<https://github.com/fantastizeey1/week9/blob/main/public/Screenshot%20(319).png?raw=true>)
 
 image
 Note: The screenshot is a mockup and may not reflect the actual output.
